@@ -1,0 +1,9 @@
+{
+  "name": "bender-vision-ikea",
+  "dependencies": {
+    "express": "^4.15.2",
+    "lodash": "^4.17.4",
+    "opencv": "^6.0.0",
+    "tesseract.js": "^1.0.10"
+  }
+}

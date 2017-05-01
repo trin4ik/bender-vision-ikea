@@ -1,0 +1,1 @@
+Computer vision sample, ikea case
